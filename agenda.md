@@ -10,10 +10,10 @@ PW: guest123 // secure right?
 # Agenda - MONTH
 ## Announcements
 - Sponsors
-~Solutions Design Group (SDG) pizza & beer
-~~solutiondesign.com
-~Virtuwell space / meet up dues
-~~careers.virtuwell.com
+  * Solutions Design Group (SDG) pizza & beer
+    * solutiondesign.com
+  * Virtuwell space / meet up dues
+    * careers.virtuwell.com
 - Hiring / LFWork?
 - Call for Presenters(!)
 - Other announcements?
