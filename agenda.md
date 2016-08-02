@@ -20,7 +20,10 @@ PW: guest123 // secure right?
 ## Lightning Talks?
 
 
-## John Urberg 'Functional Reactive Angular 2'
+## "Launch Yourself Into the Angular 2 and TypeScript Space" w/ Kurt Wiersma
+
+### https://twitter.com/kwiersma
+### https://github.com/kwiersma
 
 
 -
